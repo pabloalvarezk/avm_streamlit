@@ -1,4 +1,4 @@
-#!/home/vplab-minion/proyectos/avm_streamlit/avm_streamlit_env/bin/python
+#!/home/vplab-minion/proyectos/avm_streamlit/avm_streamlit_env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
